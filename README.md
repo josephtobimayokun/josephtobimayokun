@@ -27,7 +27,7 @@ I design and build production-grade software — from machine learning pipelines
 End-to-end real estate valuation system built with PyTorch. Full ML pipeline — outlier detection, feature engineering, log-transform targets, one-hot encoding across 200+ features — served via a FastAPI backend and React frontend, deployed to production.
 
 ### 🔍 [Sentinel — Fraud Detection System](https://sentinel-fraud-detection.vercel.app)
-Real-time fraud detection platform with a PyTorch classifier backend and live React dashboard. REST API on Render, frontend on Vercel, with continuous inference on incoming transactions.
+Real-time fraud detection platform with a PyTorch classifier backend and live React dashboard. FAST API on Render, frontend on Vercel, with continuous inference on incoming transactions.
 
 ### 🏗️ Mangal Logistics Compliance Platform
 Enterprise gate management system built for a live client. Integrated Hikvision ANPR hardware, Paystack payment webhooks, role-based access control, JWT authentication, immutable audit logs, and automated database backups. Hardened for enterprise deployment.
