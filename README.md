@@ -9,7 +9,7 @@
 
 ## About
 
-I build machine learning systems end-to-end — data pipelines, model training, production APIs, and user-facing dashboards. My work spans predictive modeling, fraud detection, and enterprise software, with a consistent focus on shipping systems that work in production.
+I design and build production-grade software — from machine learning pipelines and predictive systems to full-stack applications and enterprise platforms. I take projects from raw data and requirements through to deployed, scalable systems that solve real problems.
 
 ---
 
