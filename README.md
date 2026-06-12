@@ -15,7 +15,7 @@ I build machine learning systems end-to-end — data pipelines, model training, 
 
 ## Technical Stack
 
-**ML / AI** — PyTorch · FastAPI · Scikit-learn · Python  
+**ML / AI** — PyTorch · FastAPI · Python  
 **Web** — React · Node.js · PostgreSQL · Docker  
 **Infrastructure** — Render · Vercel · REST APIs · JWT · RBAC  
 
