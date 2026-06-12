@@ -9,16 +9,16 @@
 
 ## About
 
-I design and build production-grade software — from machine learning pipelines and predictive systems to full-stack applications and enterprise platforms. I take projects from raw data and requirements through to deployed, scalable systems that solve real problems.
+I design and build production-grade software — from machine learning pipelines to full-stack applications. I take projects from raw data and requirements through to deployed, scalable systems that solve real problems.
 
 ---
 
 ## Technical Stack
 
 **ML / AI** — PyTorch · FastAPI · Python  
-**Web** — React · Node.js · PostgreSQL · Docker  
-**Infrastructure** — Render · Vercel · REST APIs · JWT · RBAC  
-
+**Web** — JavaScript · React · Node.js   
+**Infrastructure** — Render · Vercel · FAST APIs
+· Docker
 ---
 
 ## Projects
@@ -36,6 +36,6 @@ Enterprise gate management system built for a live client. Integrated Hikvision 
 
 ## Contact
 
-Open to remote ML engineering roles and technical collaborations.
+Open to ML engineering roles and technical collaborations.
 
 [LinkedIn](https://linkedin.com/in/joseph-tobi-063576361) · [GitHub](https://github.com/josephtobimayokun)
